@@ -43,7 +43,7 @@ VALUES ('Admin', 'admin@demo.com', '123456', 'admin');
 "email": "saul@example.com",
 "password": "123456"
 "role": "user"
-
+--Admin que se creo para la prueba, usando postman, PgAdmin4
   "name": "Administrador",
   "email": "admin@ms.com",
   "password": "admin123",
